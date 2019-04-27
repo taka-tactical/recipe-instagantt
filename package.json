@@ -1,0 +1,13 @@
+{
+  "id": "instagantt",
+  "name": "Instagantt",
+  "version": "1.0.0",
+  "description": "Instagantt",
+  "main": "index.js",
+  "author": "Taka",
+  "license": "MIT",
+  "repository": "https://github.com/taka-tactical/recipe-instagantt",
+  "config": {
+    "serviceURL": "https://instagantt.com/app"
+  }
+}
